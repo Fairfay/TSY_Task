@@ -1,4 +1,3 @@
-# Чтение данных из файла input.txt
 numbers = []
 
 try:
