@@ -5,6 +5,7 @@
 git clone
 ```
 Создать/перенести файл input.txt в директорию с проектом.
+
 Запустить проект:
 ```sh
 python "Practical task 2.py"
