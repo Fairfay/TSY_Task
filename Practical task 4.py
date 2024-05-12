@@ -3,7 +3,6 @@ def print_sticks(sticks):
     print("Осталось палочек:", sticks)
     print("| " * sticks)
 
-
 def main():
     sticks = 21
     print("Добро пожаловать в игру '21'!")
